@@ -1,0 +1,6 @@
+struct SHMDemo
+{
+	unsigned long index;
+	string message;
+	long long time;
+};
